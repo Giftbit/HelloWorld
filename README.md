@@ -21,6 +21,15 @@ The output of 'run' or 'test' should be a 'BUILD SUCCESSFUL' message.
 While we will test your submission from the command line as mentioned, you are welcome and encouraged to use your favourite IDE while developing.   Note that you will need a working internet connection to complete the exercise.
 
 ###Working on and submitting your exercise
+
+Source files exist at 
+> /src/main/groovy/[pacakge]/[files]
+
+and tests at 
+> /src/test/groovy/[pacakge]/[files]
+
+Note that java and groovy source can exist side by side and interoperate as is shown in this example.  There is no bias in evaluation for using Groovy versus Java.
+
 At the beginning of your time slot, we will provide you with read access and a link to the actual exercise Github repository (we'll need your Github username) that will have identical structure to this one, but additional skeleton classes and a README that will define the problem. You will fork it into your own Github account and do your work as you would normally.  At or before the end of your 3 hour time slot, you'll send us the link to your repository (please make it public, or if there is a reason you do not want to do so provide read access to 'pdlocke' Github account).  We will take a look at your commits as well as the final state of the repository.
 
 ###Gradle and external dependencies
