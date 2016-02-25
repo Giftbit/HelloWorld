@@ -23,10 +23,10 @@ While we will test your submission from the command line as mentioned, you are w
 ###Working on and submitting your exercise
 
 Source files exist at 
-> /src/main/groovy/[pacakge]/[files]
+> /src/main/groovy/[package]/[files]
 
 and tests at 
-> /src/test/groovy/[pacakge]/[files]
+> /src/test/groovy/[package]/[files]
 
 Note that java and groovy source can exist side by side and interoperate as is shown in this example.  There is no bias in evaluation for using Groovy versus Java.
 
